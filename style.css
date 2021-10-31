@@ -1,0 +1,28 @@
+body {
+    background-image: url(cherry_blossom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.test_image_and_result {
+    background-color: rgba(255, 212, 242, 0.767);
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: -20px;
+    padding-top: 10px;
+}
+
+.mini_result {
+    text-align: center;
+}
+
+li {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+span {
+    padding-right: -100px;
+    font-weight: bold;
+}
